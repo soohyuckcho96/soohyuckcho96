@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML, and its diverse algorithms.
 - 🌱 I’m currently learning computational algorithms and their usages.
 - 💞️ I’m looking to collaborate on backend and model training.
-- 📫 How to reach me ...
+- 📫 Reach me via hihimike96@gmail.com
 
 <!---
 soohyuckcho96/soohyuckcho96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
